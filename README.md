@@ -5,7 +5,17 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kyusufm?style=social)
 
-<your_bio>
+I am software engineer. I've worked as full-stack developer, back-end engineer.
+
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
 
 ---
 
