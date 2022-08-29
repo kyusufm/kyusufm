@@ -3,7 +3,7 @@
 
 ### I am K Yusuf Muhammad!
 
-![Twitter Follow]([https://img.shields.io/twitter/follow/<kyusufm>?style=social](https://img.shields.io/twitter/url?url=http%3A%2F%2Ftwitter.com%2Fkyusufm))
+![Twitter Follow]([[https://img.shields.io/twitter/follow/<kyusufm>?style=social](https://img.shields.io/twitter/url?url=http%3A%2F%2Ftwitter.com%2Fkyusufm)](https://img.shields.io/twitter/follow/kyusufm?style=social))
 
 <your_bio>
 
