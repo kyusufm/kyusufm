@@ -1,4 +1,13 @@
-### Hi there 👋
+### Assalamualaikum Warahmatullahi Wabarakatuh
+### Hi there 👋 May peace be upon you.
+
+### I am K Yusuf Muhammad!
+
+![Twitter Follow](https://img.shields.io/twitter/follow/<kyusufm>?style=social)
+
+<your_bio>
+
+---
 
 <!--
 **kyusufm/kyusufm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
