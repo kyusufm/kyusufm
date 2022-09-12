@@ -5,6 +5,11 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kyusufm?style=social)
 
+https://g.dev/suf
+https://www.hackerrank.com/kyusufm
+
+
+
 I am software engineer. I've worked as full-stack developer, back-end engineer.
 
 
