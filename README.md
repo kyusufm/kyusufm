@@ -42,7 +42,7 @@ React, Nodejs, Go,
 
 #### Interest
 GraphQl.
-AWS certification.
+AWS.
 Android
 IOS
 Flutter
