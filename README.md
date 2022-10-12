@@ -5,6 +5,10 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kyusufm?style=social)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kyusufm)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kyusufm.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kyusufm)
+
 https://g.dev/suf
 https://www.hackerrank.com/kyusufm
 
