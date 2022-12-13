@@ -2,7 +2,6 @@
 <h2>I'm Yusuf</h2>
 <h3>Software engineer with the love in Design</h3>
 As an experienced software engineer with decades of experience, I have created dozens of apps using Php, Java and JavaScript. I am skilled in web development frameworks like  Laravel, React, Springboot and I am always eager to learn new technologies and stay up-to-date with industry trends. 
-**Let's discuss how I can help you achieve your goals.**
 
 - 🔭 I’m currently working on [React Course]
 - 🌱 I’m currently learning deeper on **REACT**
@@ -40,7 +39,7 @@ As an experienced software engineer with decades of experience, I have created d
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ###### Operationals  i used
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=&logoColor=black)
+![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 ![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
