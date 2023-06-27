@@ -7,7 +7,7 @@ As an experienced software engineer with decades of experience, I have created d
 - 🌱 I’m currently learning deeper on **REACT**
 - 📫 Connect with me at [https://linkedin.com/in/kyusufm](Linkedin)
 - 📄 Know about my experiences [https://medium.com/@cup](https://medium.com/@cup)
-- ⚡ Fun fact *I'm familiar and created apps with several code languages.ie php,java,javascript,and golang*
+<!--- ⚡ Fun fact *I'm familiar and created apps with several code languages.ie php,java,javascript,and golang* -->
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/kyusufm](https://github.com/kyusufm) -->
 <!-- - 📝 I write articles on [https://medium.com/@cup](https://medium.com/@cup) -->
 
