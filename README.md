@@ -32,9 +32,7 @@ As an experienced software engineer with decades of experience, I have created d
 
 ###### Familiar & Currently Learning/Improving
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
-![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white)
-![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
+![Python](http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ###### Operationals  i used
@@ -43,13 +41,10 @@ As an experienced software engineer with decades of experience, I have created d
 ![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
 
 ###### Others
 ![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-![Kafka](http://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apachekafka&logoColor=black)
-![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
 ![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
 ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
