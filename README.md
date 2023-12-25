@@ -32,7 +32,7 @@ As an experienced software engineer with decades of experience, I have created d
 
 ###### Familiar & Currently Learning/Improving
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Python](http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=python&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-629e3a?style=for-the-badge&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ###### Operationals  i used
