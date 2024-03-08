@@ -1,7 +1,8 @@
 <h4>Assalamualaikum | May peace be upon you</h4>
 <h2>I'm Yusuf</h2>
 <h3>Software engineer with the love in Design</h3>
-As an experienced software engineer with decades of experience, I have created dozens of apps using Php, Java and JavaScript. I am skilled in web development frameworks like  Laravel, React, Springboot and I am always eager to learn new technologies and stay up-to-date with industry trends. 
+
+I build web and app.
 
 - 🔭 I’m currently doing python #100daysofcode replit
 - 📫 Connect with me at [https://linkedin.com/in/kyusufm](Linkedin)
