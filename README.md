@@ -11,9 +11,7 @@ Code for 10 years. Still learning the new tech.
 * 🖥️  See my portfolio at [Here's my portfolio](http://kyusufm.framer.website)
 * ✉️  You can contact me at [kyusufm@gmail.com](mailto:kyusufm@gmail.com)
 * 🚀  I'm currently working on [My Personal Brand](http://youtube.com/@kyusufm)
-* 🧠  I'm learning Ruby on Rails
 * 🤝  I'm open to collaborating on Web Development Project
-* ⚡  I am learning calisthenic and martial art (karate)
 
 ### Primary Skills
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
